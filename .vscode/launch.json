@@ -7,8 +7,38 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "$(workspaceFolder)/exercises/index.html",
+            "name": "Launch exercise 1",
+            "url": "${workspaceFolder}/exercise1/index.html",
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch exercise 2",
+            "url": "${workspaceFolder}/exercise2/index.html",
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch exercise 3",
+            "url": "${workspaceFolder}/exercise3/index.html",
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch exercise 4",
+            "url": "${workspaceFolder}/exercise4/index.html",
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch exercise 5",
+            "url": "${workspaceFolder}/exercise5/index.html",
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch exercise 6",
+            "url": "${workspaceFolder}/exercise6/index.html",
         }
     ]
 }
